@@ -15,4 +15,3 @@ if showtime:
     print(movie, "is playing at", showtime)
 else:
     print("Requested movie is not available")
-    
